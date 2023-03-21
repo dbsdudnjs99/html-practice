@@ -51,6 +51,7 @@ td {
 }
 
 img {
+  animation: slide-in 2s;
   display: block;
   margin: 0 auto;
   box-shadow: 7px 7px 1px black;
